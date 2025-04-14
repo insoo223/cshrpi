@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hellocshrpi", "hellocshrpi\hellocshrpi.csproj", "{05803265-F1BA-40CD-8A87-961E560E1233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05803265-F1BA-40CD-8A87-961E560E1233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05803265-F1BA-40CD-8A87-961E560E1233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05803265-F1BA-40CD-8A87-961E560E1233}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{05803265-F1BA-40CD-8A87-961E560E1233}.Debug|ARM64.Build.0 = Debug|ARM64
+		{05803265-F1BA-40CD-8A87-961E560E1233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05803265-F1BA-40CD-8A87-961E560E1233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05803265-F1BA-40CD-8A87-961E560E1233}.Release|ARM64.ActiveCfg = Release|ARM64
+		{05803265-F1BA-40CD-8A87-961E560E1233}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B4BFAD-63C0-4EE0-8A49-6F57B477E6A7}
+	EndGlobalSection
+EndGlobal
